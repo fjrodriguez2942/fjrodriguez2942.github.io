@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Menu"
-permalink: /menu/
+title: "Sharbux"
+permalink: /sharbux/
 ---
 This weeks limited edition brew is
 
