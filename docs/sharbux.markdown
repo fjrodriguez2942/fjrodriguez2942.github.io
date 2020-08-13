@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Coconut Coldbrew
+This weeks limited edition brew is The Baileys Brew
 
 
-![Iced Coffee](/assets/CoconutBrew.jpg)
+![Iced Coffee](/assets/BaileysBrew.jpg)
 
 
-Cold Brew with coconut water, and coconut foam; topped with dark chocolote coconut chips
+Cold Brew with coconut water, and Bailyes Irish Cream foam; topped with cocoa powder
