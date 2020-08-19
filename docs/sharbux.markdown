@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Chepo
+This weeks limited edition brew is The Horchata Brew
 
 
-![Iced Coffee](/assets/Cheponolemonade.jpg)
+![Iced Coffee](/assets/horchata.jpg)
 
 
-Blue macha and agave nectar
+Coconut Water cold brew with horchata foam topped with cinnamon
