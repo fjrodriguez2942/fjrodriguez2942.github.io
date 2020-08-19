@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Baileys Brew
+This weeks limited edition brew is The Chepo
 
 
-![Iced Coffee](/assets/BaileysBrew.jpg)
+![Iced Coffee](/assets/CHEPO.jpg)
 
 
-Cold Brew with coconut water, and Baileys Irish Cream foam; topped with cocoa powder
+Blue macha with lemonade and agave nectar
