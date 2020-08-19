@@ -6,7 +6,7 @@ permalink: /sharbux/
 This weeks limited edition brew is The Chepo
 
 
-![Iced Coffee](/assets/CHEPO.jpg)
+![Iced Coffee](/assets/Cheponolemonade.jpg)
 
 
-Blue macha with lemonade and agave nectar
+Blue macha and agave nectar
