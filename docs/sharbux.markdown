@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Horchata Brew
+This weeks limited edition brew is The Caramel Dolce Cold Brew
 
 
-![Iced Coffee](/assets/horchata.jpg)
+![Iced Coffee](/assets/carameldolce.jpg)
 
 
-Coconut Water cold brew with horchata foam topped with cinnamon
+Cold brew with coconut water and caramel foam
