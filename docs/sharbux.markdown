@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Caramel Dolce Cold Brew
+This weeks limited edition brew is The Mermaid Brew
 
 
-![Iced Coffee](/assets/carameldolce.jpg)
+![Iced Coffee](/assets/mermaid.jpg)
 
 
-Cold brew with coconut water and caramel foam
+Cold brew with blue macha coconut foam
