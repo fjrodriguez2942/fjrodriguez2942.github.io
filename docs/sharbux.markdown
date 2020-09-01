@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Mermaid Brew
+This weeks limited edition brew is The Pumpkin Brew
 
 
-![Iced Coffee](/assets/mermaid.jpg)
+![Iced Coffee](/assets/pumpkin.jpg)
 
 
-Cold brew with blue matcha coconut foam
+Cold brew with real pumpkin foam
