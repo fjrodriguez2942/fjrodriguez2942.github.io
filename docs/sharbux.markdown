@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Pumpkin Brew
+This weeks limited edition brew is The Vanilla Brew
 
 
-![Iced Coffee](/assets/pumpkin.jpg)
+![Iced Coffee](/assets/madagascar.jpg)
 
 
-Cold brew with real pumpkin foam
+Madagascar vanilla cold brew with vanilla foam
