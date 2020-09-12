@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Sweet Cream Cold Brew
+This weeks limited edition brew is The Snickers
 
 
-![Iced Coffee](/assets/sweetcream.jpg)
+![Iced Coffee](/assets/Snickers.jpg)
 
 
-Cold brew topped with cold stone creamery sweet cream
+Cold brew with snickers foam
