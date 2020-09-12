@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Vanilla Brew
+This weeks limited edition brew is The Reese's Peanut Butter Cup
 
 
-![Iced Coffee](/assets/madagascar.jpg)
+![Iced Coffee](/assets/Reeses.jpg)
 
 
-Madagascar vanilla cold brew with vanilla foam
+Cold brew with reese's peanut butter cup foam
