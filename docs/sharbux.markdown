@@ -3,10 +3,10 @@ layout: page
 title: "Sharbux"
 permalink: /sharbux/
 ---
-This weeks limited edition brew is The Reese's Peanut Butter Cup
+This weeks limited edition brew is The Sweet Cream Cold Brew
 
 
-![Iced Coffee](/assets/Reeses.jpg)
+![Iced Coffee](/assets/sweetcream.jpg)
 
 
-Cold brew with reese's peanut butter cup foam
+Cold brew topped with cold stone creamery sweet cream
